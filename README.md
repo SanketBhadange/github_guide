@@ -2,7 +2,15 @@
 Github Guide Remote And Local with Commands
 Steps are below
 
+Some basic commands-
+
+1.git status (to chech status)
+2.clear (to clear terminal)
+3.cd name (to get into folder change directory eg cd imdb)
+4.cd .. (to get out of folder)
+
 local to remote :
+
 1. git init     (initialise git repo)
 2. git add .
 3. git commit -m "any messege"
@@ -14,8 +22,9 @@ local to remote :
 9. git push origin main or
 10. git push -u origin main (-u is used one time so that from next time you only have to run git push)
 
-11. after some changes on your local system
-12. git add .
-13. git commit -m "any messege"
-14. git push
+12. after some changes on your local system
+13. git add .
+14. git commit -m "any messege"  
+15. git push
+
 
